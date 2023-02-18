@@ -15,7 +15,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactJS" alt="ReactJS" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp
 </div>
-
+<!--
 ### ⚙️ GitHub stats:
 <table>
   <tr>
@@ -27,7 +27,7 @@
     </td>
   </tr>
 </table>
-
+-->
 
 <!--
 **m33rzoev/m33rzoev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
