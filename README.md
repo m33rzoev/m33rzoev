@@ -1,4 +1,11 @@
 ### Hi there 👋
+- 🌱 I'm interested in front-end development and learning more about it
+- ⚡ Check out my repos to see some of my latest projects, which range from colorful websites to interactive games.
+- 💬 I'm always looking to improve my skills and would love to hear any feedback or suggestions.
+- 📫 How to reach me: m33rzoev@gmail.com
+- 😄 Thanks for stopping by!
+
+
 
 <!--
 **m33rzoev/m33rzoev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
