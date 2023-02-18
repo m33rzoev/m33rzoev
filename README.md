@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I'm interested in front-end development and learning more about it
+- 🌱 I'm interested in Front-end development and learning more about it
 - ⚡ Check out my repos to see some of my latest projects, which range from colorful websites to interactive games.
 - 💬 I'm always looking to improve my skills and would love to hear any feedback or suggestions.
 - 📫 How to reach me: m33rzoev@gmail.com
