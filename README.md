@@ -2,7 +2,7 @@
 - 🌱 I'm interested in Front-end development and learning more about it
 - ⚡ Check out my repos to see some of my latest projects, which range from colorful websites to interactive games.
 - 💬 I'm always looking to improve my skills and would love to hear any feedback or suggestions.
-- 📫 How to reach me: m33rzoev@gmail.com
+- 📫 How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/dlmvp) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:m33rzoev@gmail.com)
 - 😄 Thanks for stopping by!
 
 ### 💻 Stack:
